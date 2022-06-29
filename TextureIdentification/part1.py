@@ -1,10 +1,6 @@
 """
     Local Binary Patterns (LBP) identify pictures based on their texture.
 """
-import cv2
-import matplotlib.pyplot as plt
-import numpy as np
-import tifffile
 from tqdm import trange
 from utils import *
 
