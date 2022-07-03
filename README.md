@@ -2,7 +2,7 @@
 
 ## Project1: Texture Identification
 
-![Texture Identification](.assets/Texture Identification.png)
+<img src=".assets/Texture Identification.png" alt="Texture Identification" style="width:80%;" />
 
 ## Project2: Sudoku Solver
 
